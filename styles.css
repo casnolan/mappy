@@ -1,1 +1,7 @@
 
+#map {
+ border-style: solid;
+  border-color: red;
+      width: 100% !important;
+      height: 100% !important;
+    }
